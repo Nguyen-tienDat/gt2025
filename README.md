@@ -4,10 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Nguyen Tien Dat
 
-Student ID: USTH-ID.
+Student ID: 22BI13079
 
 ===
 
-Good luck!!!
